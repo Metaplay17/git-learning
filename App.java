@@ -3,5 +3,6 @@ public class App {
         System.out.println("Option 1 UPDATED");
         System.out.println("NEW LINE");
         System.out.println("SOME DEV CODE");
+        System.out.println("SOME ANOTHER DEV CODE");
     }
 }
